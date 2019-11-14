@@ -12,8 +12,14 @@ Create two directories within the input directory where each directory holds the
 
 input
 |--maps
+----a.pdf
+----b.pdf
 |--notes
+----a.pdf
+----b.pdf
 output
+
+Once you have run the script by typing merger.bat on the command prompt, you should see some output and when the script has completed execution, you should see files a.pdf and b.pdf in the output directory.
 
 ## Edit the batch file
 Open the file merger.bat and change where it says maps and notes with the two folder names of your source filenames.
