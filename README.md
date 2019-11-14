@@ -10,14 +10,14 @@ The original pdf files will remain in the directory after the script has finishe
 
 Create two directories within the input directory where each directory holds the same number of files and both directories have files named with the same file names. See the example directory structure below
 
-input
-|--maps
-----a.pdf
-----b.pdf
-|--notes
-----a.pdf
-----b.pdf
-output
+input  
+|--maps  
+----a.pdf  
+----b.pdf  
+|--notes  
+----a.pdf  
+----b.pdf  
+output  
 
 Once you have run the script by typing merger.bat on the command prompt, you should see some output and when the script has completed execution, you should see files a.pdf and b.pdf in the output directory.
 
